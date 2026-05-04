@@ -4,8 +4,7 @@ This portfolio features a collection of data projects that highlight my technica
 
 ## Table of Contents
 
-* Portfolio Projects
- * Microsoft Excel
-  * [GSIS and SSS Compensation Analysis](https://github.com/gideonzamora/GSIS-and-SSS-Compensation-Analysis)
-
+### Portfolio Projects
+- Microsoft Excel
+  - [GSIS and SSS Compensation Analysis](https://github.com/gideonzamora/GSIS-and-SSS-Compensation-Analysis)
  
