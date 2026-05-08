@@ -8,3 +8,6 @@ This portfolio features a collection of data projects that highlight my technica
 - Microsoft Excel
   - [GSIS and SSS Compensation Analysis](https://github.com/gideonzamora/GSIS-and-SSS-Compensation-Analysis)
  
+- SQL
+  - [Employee-Attrition-and-Retention-Study](https://github.com/gideonzamora/Employee-Attrition-and-Retention-Study)
+
